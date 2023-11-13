@@ -3,7 +3,7 @@
 
 ![SupremeERG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupremeERG&hide=contribs,prs)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupremeERG)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupremeERG&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SupremeERG/SupremeERG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-![SupremeERG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupremeERG&hide=contribs,prs&theme=dark)
+![SupremeERG's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupremeERG&hide=contribs,prs&theme=great-gatsby)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupremeERG&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SupremeERG&langs_count=6&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SupremeERG/SupremeERG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
